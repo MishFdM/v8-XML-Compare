@@ -36,6 +36,8 @@
         <item>com.miui.securitycore</item>
         <item>com.lbe.security.miui</item>
         <item>com.bsb.hike</item>
+        <item>com.fihtdc.fqc</item>
+        <item>com.android.soundrecorder</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
