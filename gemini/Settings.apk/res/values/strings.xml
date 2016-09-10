@@ -1583,6 +1583,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
   <string name="install_unknown_applications_title">Lets you install apps from sources other than Google Play</string>
   <string name="install_whole_rom">Download ROM</string>
+  <string name="instruction_title">Instructions</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1948,6 +1949,7 @@ There are other users present on this device.
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
   <string name="max_cpu10_info">"Deca-core Max "</string>
+  <string name="max_cpu2_info">Dual-core Max</string>
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
@@ -2367,6 +2369,7 @@ Select your operating system:"</string>
   <string name="path_edge_handgrip">Settings/Edge controls</string>
   <string name="path_equalizer">Settings/Sound &amp; vibration/Audio settings/Equalizer</string>
   <string name="path_font_settings">Settings/Display/System font</string>
+  <string name="path_force_touch">Settings/Additional settings/3D Touch</string>
   <string name="path_gesture_wakeup_title">Settings/Display/Double tap screen to wake</string>
   <string name="path_gps_settings">Settings/Additional settings/Privacy/Location</string>
   <string name="path_handy_mode_settings">Settings/Additional settings/One-handed mode</string>
@@ -3011,6 +3014,7 @@ To use screen pinning:
   <string name="search_empty">No search results</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">System font;Font;Fonts;Font sizes;Font size</string>
+  <string name="search_force_touch">3D Touch</string>
   <string name="search_gesture_wakeup_title">Double tap screen to wake;double tap to wake;wake screen;double tap screen;double tap</string>
   <string name="search_gps">GPS;Location Access;Location services</string>
   <string name="search_handy_mode">One handed mode;One-handed mode;Onehanded mode;One hand</string>
